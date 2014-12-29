@@ -5,4 +5,4 @@ Demo codes of the following papers:
 * @decolor_nonlinear2009, ``Robust color-to-gray via nonlinear global mapping'' Siggraph Asia, 2009
 * @decolor_sparse, ``A sparse linear model for saliency-guided decolorization'', ICIP 2011
 
-To see the result, execute ``demo.m'' in Matlab.
+Note that the code was tested in Windows 7. To learn more detail, execute ``demo.m'' in Matlab.
